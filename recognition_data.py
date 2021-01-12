@@ -4,7 +4,7 @@ import os
 import sqlite3
 from PIL import Image
 
-#trainning hinh anh nhan dien va thu vien nhan dien khuon mat
+#training hinh anh nhan dien va thu vien nhan dien khuon mat
 face_cascade = cv2.CascadeClassifier(r'C:\Users\vanminh1\OneDrive - Intel Corporation\Desktop\Cody\Minhne\Python Tutorial\OpenCV\haarcascade_frontalface_default.xml')
 recognizer = cv2.face.LBPHFaceRecognizer_create()
 
