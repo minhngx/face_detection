@@ -13,16 +13,14 @@ def InsertOrUpdate(id, name):
     for row in cusror:
         IsRecordExist = 1
     if(IsRecordExist == 0):
-         query = "INSERT INTO people(ID, Name) VALUES(" + str(id) + ",'" + str(name) + "')"
+        query = "INSERT INTO people(ID, Name) VALUES(" + str(id) + ",'" + str(name) + "')"
     else:
         query = "UPDATE people SET Name='"+ str(name) + "' WHERE ID=" + str(id)
 
     conn.execute(query)
     conn.commit()
     conn.close()
-
-InsertOrUpdate(1,"abc")
-
+    
 #load tv
 face_cascade = cv2.CascadeClassifier(r'C:\Users\vanminh1\OneDrive - Intel Corporation\Desktop\Cody\Minhne\Python Tutorial\OpenCV\haarcascade_frontalface_default.xml')
 cap = cv2.VideoCapture(0)
