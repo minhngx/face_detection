@@ -7,7 +7,7 @@ cap = cv2.VideoCapture(0)
 while(True):
     ret, frame = cap.read()
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-    faces = face_cascade.detectMultiScale(gray)
+    faces = face_cascade.detectMultiScale(gray) #detect face base on support tools
 
     for(x, y, w, h) in faces:
         cv2.rectangle(frame, (x,y), (x + w, y + h), (0, 0, 255), 2)
