@@ -21,7 +21,7 @@ Run this script to add data on db
 
 3. training
 
-From 100 image files, this script convert it to array number and save it as yml file
+From 100 image files, this script convert it to array number and save it as .yml file
 > ![7.jpg](https://2.pik.vn/2021326f61d0-5d9a-4498-9d0f-45f115a073a3.jpg)
 
 4. recognition_data
