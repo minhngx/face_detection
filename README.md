@@ -1,5 +1,5 @@
 # Face Detection
-1. face_detection,
+1. face_detection
 
 Remember to add link .xml in this line
 ![3.jpg](https://2.pik.vn/20218bd348b0-31e0-4f6a-8227-47b4a4d5361d.jpg)
@@ -8,6 +8,7 @@ This script helps to recognize faces
 ![2.jpg](https://2.pik.vn/2021ff877880-b989-434d-b2d3-f4c36fbf050d.jpg)
 
 2. get_data
+
 Create table people by SQLite
 ![1.jpg](https://2.pik.vn/202197c4ecf8-5122-4d31-832e-29b58aca9baa.jpg)
 Run this script to add data on db
