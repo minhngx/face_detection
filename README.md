@@ -9,7 +9,7 @@ This script helps to recognize faces
 
 2. get_data
 
-Create table people by SQLite
+Create table people by SQLite as image below
 > ![1.jpg](https://2.pik.vn/202197c4ecf8-5122-4d31-832e-29b58aca9baa.jpg)
 
 Run this script to add data on db
