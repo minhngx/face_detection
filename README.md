@@ -15,8 +15,7 @@ Create table people by SQLite as image below
 Run this script to add data on db
 > ![4.jpg](https://2.pik.vn/2021ad9cba71-107a-4e6d-a5d1-ac63f5139350.jpg)
 
-100 images file will be save on dataSet
-
+100 images file will be save on dataSet folder
 > ![5.jpg](https://2.pik.vn/202143c9ab07-eec9-4e66-b9e5-cc5d1a3e1cb9.jpg)
 
 3. training
