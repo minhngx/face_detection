@@ -2,7 +2,7 @@
 1. face_detection
 
 Remember to add link .xml in this line
-![3.jpg](https://2.pik.vn/20218bd348b0-31e0-4f6a-8227-47b4a4d5361d.jpg)
+>>>![3.jpg](https://2.pik.vn/20218bd348b0-31e0-4f6a-8227-47b4a4d5361d.jpg)
 
 This script helps to recognize faces
 ![2.jpg](https://2.pik.vn/2021ff877880-b989-434d-b2d3-f4c36fbf050d.jpg)
