@@ -4,7 +4,7 @@
 Remember to add link .xml in this line
 > ![3.jpg](https://2.pik.vn/20218bd348b0-31e0-4f6a-8227-47b4a4d5361d.jpg)
 
-This script helps to recognize faces
+This script helps to recognize face
 > ![2.jpg](https://2.pik.vn/2021ff877880-b989-434d-b2d3-f4c36fbf050d.jpg)
 
 2. get_data
@@ -12,10 +12,10 @@ This script helps to recognize faces
 Create table people by SQLite as image below
 > ![1.jpg](https://2.pik.vn/202197c4ecf8-5122-4d31-832e-29b58aca9baa.jpg)
 
-Run this script to add data on db
+Run this script to add data on database
 > ![4.jpg](https://2.pik.vn/2021ad9cba71-107a-4e6d-a5d1-ac63f5139350.jpg)
 
-100 images file will be save on dataSet folder
+100 image files will be save on dataSet folder
 > ![5.jpg](https://2.pik.vn/202143c9ab07-eec9-4e66-b9e5-cc5d1a3e1cb9.jpg)
 
 3. training
